@@ -15,5 +15,8 @@ https://www.youtube.com/watch?v=cePhhsjYpQU
 #2 Democratizando a Ciência de Dados em Português
 https://www.youtube.com/watch?v=i7amRqLLQl4
 
+#3 Tutorial Análisis de Datos Satelitales en R
+https://www.youtube.com/watch?v=NdJBiY6XRm4
+
 
 

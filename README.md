@@ -18,5 +18,8 @@ https://www.youtube.com/watch?v=i7amRqLLQl4
 #3 Tutorial Análisis de Datos Satelitales en R
 https://www.youtube.com/watch?v=NdJBiY6XRm4
 
+#4 Tutorial: Working with larger than memory data in R with Arrow and DuckDB
+https://www.youtube.com/watch?v=yp5Q85geHF0&t=39s
+
 
 
